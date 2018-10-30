@@ -7,4 +7,4 @@ An NLP project that focuses on the PTT community.
   - Can get the link of the previous page.
   - TODO: Get all articles on certain date or during a period.
 
-![json format]('src/img/json.png')
+<img src="./src/img/json.png" alt="json format">
